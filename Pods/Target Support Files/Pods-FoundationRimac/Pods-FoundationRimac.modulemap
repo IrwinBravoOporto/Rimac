@@ -1,0 +1,6 @@
+framework module Pods_FoundationRimac {
+  umbrella header "Pods-FoundationRimac-umbrella.h"
+
+  export *
+  module * { export * }
+}

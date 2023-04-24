@@ -16,13 +16,13 @@ end
 # Configura el pod para el proyecto Pagos
 target 'Pagos' do
   use_frameworks!
-  project './Pagos/Pagos.xcodeproj'
+  project '/Users/irwinbravooporto/Desktop/SuperAppRimac 2/Pagos/Pagos.xcodeproj'
 end
 
 # Configura el pod para el proyecto FoundationRimac
 target 'FoundationRimac' do
   use_frameworks!
-  project './FoundationRimac/FoundationRimac.xcodeproj'
+  project '/Users/irwinbravooporto/Desktop/SuperAppRimac 2/FoundationRimac/FoundationRimac.xcodeproj'
 end
 
 post_install do |installer|

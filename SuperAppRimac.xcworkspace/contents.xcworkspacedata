@@ -2,10 +2,10 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:FoundationRimac/FoundationRimac.xcodeproj">
+      location = "group:../Pagos/Pagos.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:Pagos/Pagos.xcodeproj">
+      location = "group:../FoundationRimac/FoundationRimac.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Rimac.xcodeproj">
